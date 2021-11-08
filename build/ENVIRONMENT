@@ -1,0 +1,7 @@
+# You can manually change the environment variables below:
+CSG_ROOT: /mnt/e/repos/InverseCSG-master
+CGAL_DIR: /mnt/e/repos/InverseCSG-master/build/CGAL-4.12
+CSG_CPP_EXE: /mnt/e/repos/InverseCSG-master/build/cpp/csg_cpp_command
+CSG_SKETCH: /mnt/e/repos/sketch-1.7.6/sketch-frontend/sketch
+CSG_SKETCH_FRONTEND: /mnt/e/repos/sketch-1.7.6/sketch-frontend
+CSG_SKETCH_BACKEND: /mnt/e/repos/sketch-1.7.6/sketch-backend

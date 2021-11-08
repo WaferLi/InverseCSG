@@ -1,4 +1,6 @@
-build
+# build
+cpp/out
+.vs
 __pycache__
 *~
 
